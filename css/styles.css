@@ -46,6 +46,17 @@ pre {
     line-height: 1.4em;
     color: #333;
 }
+.container {
+    padding-top: 100px;
+}
+.circle img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    flex: left;
+    margin: 20px;
+    -webskit-shape-outside:circle()
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
