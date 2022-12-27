@@ -50,12 +50,12 @@ pre {
     padding-top: 100px;
 }
 .circle img{
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    width: 300px;
     object-fit: cover;
     border-radius: 50%;
     float: left;
-    margin: 20px;
+    margin: 50px;
     /*-webskit-shape-outside:circle();*/
     shape-outside: circle;
 }
