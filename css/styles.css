@@ -28,25 +28,13 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
-ol {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.2em;
-    line-height: 1.4em;
-    color: #333;
-}
-ul {
+li {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
 }
 p {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.2em;
-    line-height: 1.4em;
-    color: #333;
-}
-li {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.2em;
     line-height: 1.4em;
